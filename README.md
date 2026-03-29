@@ -1,13 +1,15 @@
 <h1>Hey 👋, I'm Gabriel</h1>
 
-Self-taught Software Engineer focused on backend development  
-Interested in Cloud, Distributed Systems, Microservices, and AI  
-Currently writing blogs at: https://gabrielcardim.hashnode.dev/
+Self-taught Software Engineer focused on backend development
 
-Tech Stack:  
-Golang, Java, TypeScript, Node.js  
+I've expertise with Golang, Java, TypeScript, and Node.js
+Currently learning C#
 
-Contact:  
-Email: cardimg06@gmail.com  
-LinkedIn: https://www.linkedin.com/in/gabriel-cardim-a72618269  
+Interested in Cloud, Distributed Systems, Microservices, and AI
+
+I write about what I’m learning and building here: https://gabrielcardim.hashnode.dev/
+
+Contact:
+Email: [cardimg06@gmail.com](mailto:cardimg06@gmail.com)
+LinkedIn: https://www.linkedin.com/in/gabriel-cardim-a72618269
 Discord: gabriel_assis6
