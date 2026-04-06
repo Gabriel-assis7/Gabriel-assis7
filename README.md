@@ -9,3 +9,5 @@ Contact:
 Email: cardimg06@gmail.com  
 LinkedIn: https://www.linkedin.com/in/gabriel-cardim-a72618269  
 Discord: gabriel_assis6
+
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-assis7)](https://github.com/Gabriel-assis7/github-readme-stats)
