@@ -1,7 +1,8 @@
 <h1>Hey 👋, I'm Gabriel</h1>
 
-I've expertise with Golang, Java, TypeScript & currently learning C#  
-Interested in Cloud, Distributed Systems, Microservices, and AI  
+Self-taught software engineer interested in Cloud, Security, Distributed Systems, Microservices, and AI
+
+Feel free to connect with me or check out some of my side projects. 
 
 My blog: https://gabrielcardim.hashnode.dev/
 
